@@ -1,0 +1,9 @@
+# Sensitive data
+.env
+
+# Python environment and cache
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env/

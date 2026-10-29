@@ -1,11 +1,12 @@
 from openai import OpenAI 
+from dotenv import load_dotenv
 
-client = OpenAI(api_key='OPENAI_API_KEY')
+load_dotenv()
 
-response = client.responses.create(model='gpt-5.4-mini',input="Who is the prime minister of india",
-                                   instructions="Consider you as a ChatBot",
-                                   temperature=0,
-                                   max_output_tokens=60) #llm
+client = OpenAI() 
+
+response = client.responses.create(model='gpt-5.4-mini',
+                                   input="Who is the prime minister of india")
 
 print(response.output_text)
 
