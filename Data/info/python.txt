@@ -1,0 +1,10 @@
+Python is a high-level programming language known for its simplicity and readability.
+Python supports object-oriented, procedural, and functional programming paradigms.
+Lists are mutable data structures used to store multiple elements in Python.
+Tuples are immutable collections that maintain an ordered sequence of elements.
+Dictionaries store data in key-value pairs.
+Python functions are defined using the def keyword.
+Exception handling in Python uses try, except, else, and finally blocks.
+Pandas is a Python library used for data manipulation and analysis.
+FastAPI is a Python framework used to develop high-performance REST APIs.
+Virtual environments help manage project-specific Python dependencies.

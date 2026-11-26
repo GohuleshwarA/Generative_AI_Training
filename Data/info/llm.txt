@@ -1,0 +1,10 @@
+A Large Language Model (LLM) is an AI model trained on large amounts of textual data.
+LLMs use transformer architecture to understand relationships between words and tokens.
+GPT, Claude, and Llama are examples of Large Language Models.
+Tokens are smaller units of text processed by language models.
+The context window defines the maximum number of tokens an LLM can process in a single interaction.
+Temperature controls the creativity and randomness of generated responses.
+Top-p sampling controls token selection based on cumulative probability.
+Fine-tuning adapts a pretrained model using additional task-specific training data.
+Prompt engineering improves LLM responses by providing clear instructions and relevant context.
+RAG reduces hallucinations by providing external knowledge to the LLM during response generation.

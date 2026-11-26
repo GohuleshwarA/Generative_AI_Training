@@ -1,0 +1,10 @@
+PHP is a server-side scripting language commonly used for web application development.
+PHP stands for Hypertext Preprocessor.
+PHP scripts are executed on the server and generate dynamic web page content.
+Variables in PHP begin with the dollar sign followed by the variable name.
+PHP supports object-oriented programming concepts such as classes and inheritance.
+Laravel is a popular PHP framework used to build modern web applications.
+Composer is a dependency management tool for PHP projects.
+PHP supports database connectivity with MySQL and other relational databases.
+PHP sessions are used to maintain user information across multiple web requests.
+PHP provides built-in functions for handling forms, files, strings, and arrays.

@@ -1,0 +1,10 @@
+Java is an object-oriented programming language widely used for enterprise application development.
+Java applications run on the Java Virtual Machine (JVM).
+JDK stands for Java Development Kit and provides tools to develop Java applications.
+JRE stands for Java Runtime Environment and provides the environment to execute Java programs.
+Java supports object-oriented principles such as inheritance, encapsulation, polymorphism, and abstraction.
+Spring Boot is a Java framework used to develop standalone and production-ready applications.
+Hibernate is an ORM framework used to map Java objects to relational database tables.
+Java collections provide data structures such as List, Set, Map, and Queue.
+Multithreading allows Java applications to execute multiple tasks concurrently.
+Java exception handling uses try, catch, finally, throw, and throws keywords.

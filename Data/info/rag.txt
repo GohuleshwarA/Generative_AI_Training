@@ -1,0 +1,11 @@
+Retrieval Augmented Generation (RAG) enhances LLM responses using external knowledge sources.
+A RAG pipeline typically consists of document ingestion, preprocessing, chunking, embedding, retrieval, and generation.
+Document loaders extract content from sources such as PDF, TXT, DOCX, and web pages.
+Text chunking divides large documents into smaller sections for efficient retrieval.
+RecursiveCharacterTextSplitter is commonly used to split documents while preserving text structure.
+Embedding models convert text into numerical vectors representing semantic meaning.
+FAISS, ChromaDB, and Pinecone are examples of vector databases used in RAG applications.
+Similarity search retrieves document chunks based on their semantic relevance to a query.
+A reranker improves retrieval quality by reordering retrieved documents based on relevance.
+The retrieved context is passed to an LLM to generate a grounded response.
+
